@@ -1,3 +1,5 @@
+<h1 align="center">Eugene is my name, Typescript is my bae</h1>
+
 <h1 align="center">👋 Hello! I'm Eugene.</h1>
 <h2 align="center">Currently a Third Year Computer science student at NUS</h2>
 <h3 align="center">Welcome to my github profile </h3>
