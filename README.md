@@ -8,7 +8,7 @@
  -->
 <div align="center">
 	<br>
-	<a href="https://github.com/EugeneTeu/EugeneTeu/blame/main/info.svg">
+	<a href="https://github.com/EugeneTeu/EugeneTeu/master/info.svg">
 		<img src="info.svg" width="800" height="400" alt="Click to see the source">
 	</a>
 	<br/>
