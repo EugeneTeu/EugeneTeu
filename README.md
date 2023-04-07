@@ -11,12 +11,16 @@
 	<a href="https://github.com/EugeneTeu/EugeneTeu/blame/main/info.svg">
 		<img src="info.svg" width="800" height="400" alt="Click to see the source">
 	</a>
-	<br>
+	<br/>
+	<h2><a href="https://eugeneteu.me">Visit my site</a></h2>
+	<br/>
 </div>
 
 <br/>
   <br/>
   
   <br/>
-  
-[![Eugene's github stats](https://github-readme-stats.vercel.app/api?username=EugeneTeu&count_private=true&hide=stars&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Eugene's github stats](https://github-readme-stats.vercel.app/api?username=EugeneTeu&count_private=true&hide=stars&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
