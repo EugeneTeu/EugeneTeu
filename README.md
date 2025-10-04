@@ -21,6 +21,12 @@
   
   <br/>
 
-<!-- [![Eugene's github stats](https://github-readme-stats.vercel.app/api?username=EugeneTeu&count_private=true&hide=stars&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats) -->
+
+## 📊 My GitHub Stats
+
+[![Eugene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EugeneTeu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneTeu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
