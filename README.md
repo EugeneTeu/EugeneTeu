@@ -24,6 +24,8 @@
 
 ## 📊 My GitHub Stats
 
+- of course this will be low. All my daily work is in my company's repo
+
 [![Eugene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EugeneTeu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EugeneTeu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
